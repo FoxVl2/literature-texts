@@ -1,8 +1,4 @@
 The old book lay on the table.
 Its pages were yellowed and torn.
-<<<<<<< HEAD
-A card fell out as it was opened.
-=======
-A note fell out as it was opened.
->>>>>>> branch-2
+A map, a note and a card fell out as it was opened.
 Where could it lead?  
